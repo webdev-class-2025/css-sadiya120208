@@ -1,0 +1,13 @@
+# Mac system files
+.DS_Store
+
+# Thumbnails or caches
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# Node projects
+node_modules/
+.env
+dist/
